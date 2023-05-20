@@ -1,3 +1,4 @@
+![logo](https://github.com/SinghHridyansh/SinghHridyansh/blob/main/Github%20image%202.png)
 <h1 align="center">Hi 👋, I'm Hridyansh</h1>
 <h3 align="center">A FrontEnd Developer in love with design.Passionate professional with a design background and love for programming, eagerly seeking rewarding opportunities in frontend development. Armed with an extensive knowledge of HTML, CSS, JavaScript, and Java, I bring a unique blend of technical prowess and creative finesse to the table. With a flair for motion design, I skillfully employ frameworks and libraries such as ReactJS, Bootstrap, and Material UI to craft visually captivating and interactive user interfaces. Proficient in leveraging industry-standard tools and technologies including Git and VS Code, I thrive in delivering exceptional digital experiences.</h3>
 
