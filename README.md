@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Hridyansh</h1>
-<h3 align="center">A FrontEnd Developer in love with design.Passionate professional with a design background and love for programming, eagerly seeking rewarding opportunities in frontend development. Armed with an extensive knowledge of HTML, CSS, JavaScript, and Java, I bring a unique blend of technical prowess and creative finesse to the table. With a flair for motion design, I skillfully employ frameworks and libraries such as ReactJS, Bootstrap, and Material UI to craft visually captivating and interactive user interfaces. Proficient in leveraging industry-standard tools and technologies including Git and VS Code, I thrive in delivering exceptional digital experiences.</h3>
+<h3 align="center">A FrontEnd Developer in love with design.Passionate professional with a design background and love for programming, eagerly seeking rewarding opportunities in Full Stack development. Armed with an extensive knowledge of HTML, CSS, JavaScript, Java and React.js, I bring a unique blend of technical prowess and creative finesse to the table. With a flair for motion design, I skillfully use frameworks and libraries such as ReactJS, Bootstrap, and Material UI to craft visually appealing and interactive UIs. Proficient in makiong use of industry-standard tools and technologies, I thrive in delivering exceptional digital experiences.</h3>
 
-- 🔭 I’m currently working on **my Portfolio website**
+- 🔭 I’m currently working on **My Meeting Scheduling**
 
-- 🌱 I’m currently learning **React.JS and JavaScript**
+- 🌱 I’m currently learning **Next.JS and FastAPI**
 
 - 💬 Ask me about **React.JS and Motion Design**
 
-- 📫 How to reach me **Hridyansh.360@gmail.com**
+- 📫 How to reach me **Work.hridyansh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
